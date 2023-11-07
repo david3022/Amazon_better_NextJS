@@ -1,9 +1,7 @@
 
 
 # Welcome to my 8th project as a FullStack Web Developer
-# I´m just starting to use NextJS and TS so honestly I learned this project from mr Noor Mohammad
-              https://www.youtube.com/watch?v=vviFia-Stqk&t=617s
-# I made some variations to include my own style and hopefully you´ll like them
+# I´m just starting to use NextJS and TS 
 # My email is davidfajardo3022@gmail.com
 
 
