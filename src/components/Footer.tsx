@@ -12,7 +12,7 @@ const Footer = () => {
           href="https://reactbd.com"
           target="_blank"
         >
-          @reactbd.com
+          https://portfolio18.vercel.app/
         </a>
       </p>
     </div>
