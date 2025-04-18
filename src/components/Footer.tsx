@@ -9,7 +9,7 @@ const Footer = () => {
         All rights reserved{" "}
         <a
           className="hover:text-white hover:underline decoration-[1px] cursor-pointer duration-300"
-          href="https://reactbd.com"
+          href="https://portfolio18.vercel.app/"
           target="_blank"
         >
           https://portfolio18.vercel.app/
